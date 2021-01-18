@@ -5,7 +5,7 @@ import sys
 
 # RegisterTime<|>PhoneNum<|>PortalType<|>SubPortalType<|>Channel<|>FeeType<|>Price<|>MGPCode<|>BehaviorType<|>UA<|>VersionNum<|>IMSI<|>UserId<|>SystemProductType<|>Preserver4<|>Preserver5
 
-
+#这一行是我手工在github修改的
 for line in sys.stdin:
 	try:
 	#  try begin ##########################################################			
