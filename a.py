@@ -6,7 +6,7 @@ import sys
 # RegisterTime<|>PhoneNum<|>PortalType<|>SubPortalType<|>Channel<|>FeeType<|>Price<|>MGPCode<|>BehaviorType<|>UA<|>VersionNum<|>IMSI<|>UserId<|>SystemProductType<|>Preserver4<|>Preserver5
 
 #这一行是我手工在github修改的
-#这一行是我手工在github修改的  第二次
+#这一行是我手工在github修改的  第二次： 必须先pull后更新本地才行
 
 for line in sys.stdin:
 	try:
